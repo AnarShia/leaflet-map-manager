@@ -1,4 +1,4 @@
-import Abbys from 'Abbys';
+import Abbys from 'components/Abbys';
 import './App.css';
 
 function App() {
