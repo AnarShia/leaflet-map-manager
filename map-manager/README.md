@@ -1,6 +1,6 @@
 # React with React-Leaflet and TypeScript
 
-This repository contains a project built with React, utilizing React-Leaflet for integrating Leaflet maps into a React application, all written in TypeScript. This README serves as a guide to understand the structure of the project and how to get started with development.
+This res contains a project built with React, utilizing React-Leaflet for integrating Leaflet maps into a React application, all written in TypeScript. This README serves as a guide to understand the structure of the project and how to get started with development.
 
 ## Overview
 
